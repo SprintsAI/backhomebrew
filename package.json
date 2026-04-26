@@ -1,0 +1,21 @@
+{
+  "name": "backhomebrew",
+  "version": "1.0.0",
+  "description": "A modern, responsive website for a home-based coffee shop featuring a beautiful storefront, product catalog, and online ordering system with Bitcoin payment support.",
+  "private": true,
+  "scripts": {
+    "start": "./deploy.sh",
+    "serve": "python3 -m http.server 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SprintsAI/backhomebrew.git"
+  },
+  "keywords": [
+    "coffee",
+    "ecommerce",
+    "static-site",
+    "bitcoin"
+  ],
+  "license": "MIT"
+}
